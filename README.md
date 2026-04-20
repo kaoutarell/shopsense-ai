@@ -1,1 +1,1 @@
-# shopsense-ai
+# ShopSense AI
