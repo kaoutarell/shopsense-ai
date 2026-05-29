@@ -1,14 +1,14 @@
 # ShopSense AI
 
->  A smart product search & discovery engine for Shopify stores / ML in e-commerce.
+> Intelligent product discovery engine for e-commerce. Semantic search powered by embeddings, vector search, and LLM agents.
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=000000)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=FFD43B&labelColor=000000)
-![Mistral](https://img.shields.io/badge/Mistral-F97316?style=for-the-badge&logo=firefox&logoColor=F97316&labelColor=000000)
-![HuggingFace](https://img.shields.io/badge/Hugging%20Face-8A2BE2?style=for-the-badge&logo=huggingface&logoColor=8A2BE2&labelColor=000000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=3178C6&labelColor=000000)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
-![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=7AB55C&labelColor=000000)
+![Python](https://img.shields.io/badge/Python-3.9+-FFD43B?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-0.104+-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![sentence-transformers](https://img.shields.io/badge/Embeddings-sentence--transformers-FF6B6B?style=for-the-badge&logo=huggingface&logoColor=white)
+![FAISS](https://img.shields.io/badge/Vector%20Search-FAISS-4A90E2?style=for-the-badge&logo=meta&logoColor=white)
+![Ollama](https://img.shields.io/badge/LLM-Ollama-5E35B1?style=for-the-badge&logo=meta&logoColor=white)
+![Gradio](https://img.shields.io/badge/Frontend-Gradio-FF6B6B?style=for-the-badge&logo=huggingface&logoColor=white)
+![Shopify](https://img.shields.io/badge/Built%20For-Shopify-008060?style=for-the-badge&logo=shopify&logoColor=white)
 
 ---
 
