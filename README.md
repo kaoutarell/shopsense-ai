@@ -6,7 +6,7 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=009688&labelColor=000000)
 ![sentence-transformers](https://img.shields.io/badge/Embeddings-8A2BE2?style=for-the-badge&logo=huggingface&logoColor=8A2BE2&labelColor=000000)
 ![FAISS](https://img.shields.io/badge/FAISS-4A90E2?style=for-the-badge&logo=meta&logoColor=4A90E2&labelColor=000000)
-![Ollama](https://img.shields.io/badge/Ollama-5E35B1?style=for-the-badge&logo=meta&logoColor=5E35B1&labelColor=000000)
+![Ollama](https://img.shields.io/badge/Ollama-5E35B1?style=for-the-badge&logoColor=5E35B1&labelColor=000000)
 ![Gradio](https://img.shields.io/badge/Gradio-FF6B6B?style=for-the-badge&logo=gradio&logoColor=FF6B6B&labelColor=000000)
 ![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=7AB55C&labelColor=000000)
 
