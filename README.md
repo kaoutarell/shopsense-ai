@@ -4,7 +4,7 @@
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=FFD43B&labelColor=000000)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=009688&labelColor=000000)
-![sentence-transformers](https://img.shields.io/badge/Embeddings-8A2BE2?style=for-the-badge&logo=huggingface&logoColor=8A2BE2&labelColor=000000)
+![HuggingFace](https://img.shields.io/badge/Hugging%20Face-8A2BE2?style=for-the-badge&logo=huggingface&logoColor=8A2BE2&labelColor=000000)
 ![FAISS](https://img.shields.io/badge/FAISS-4A90E2?style=for-the-badge&logo=meta&logoColor=4A90E2&labelColor=000000)
 ![Mistral](https://img.shields.io/badge/Mistral-F97316?style=for-the-badge&logo=firefox&logoColor=F97316&labelColor=000000)
 ![Gradio](https://img.shields.io/badge/Gradio-FF6B6B?style=for-the-badge&logo=gradio&logoColor=FF6B6B&labelColor=000000)
