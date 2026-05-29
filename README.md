@@ -1,7 +1,5 @@
 # ShopSense AI
 
->  A smart product search & discovery engine for Shopify stores / ML in e-commerce.
-
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=FFD43B&labelColor=000000)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=009688&labelColor=000000)
 ![HuggingFace](https://img.shields.io/badge/Hugging%20Face-8A2BE2?style=for-the-badge&logo=huggingface&logoColor=8A2BE2&labelColor=000000)
